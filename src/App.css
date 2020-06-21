@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #535353;
+  background-color: #F9E4C5;;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -89,7 +89,7 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #F8AA3A;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
